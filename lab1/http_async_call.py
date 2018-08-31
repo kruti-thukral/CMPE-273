@@ -9,7 +9,7 @@ async def get_data(url, session):
 
 # registers futures and waits for their completion 
 async def execute(number_of_times):
-    url = "https://webhook.site/08a946a7-c490-4e2a-9498-037c6eb4849d"
+    url = "https://webhook.site"
     requests = []
 
     async with ClientSession() as client_session:
