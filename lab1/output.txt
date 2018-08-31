@@ -1,0 +1,9 @@
+#output for sync calls
+Fri, 31 Aug 2018 20:37:31 GMT
+Fri, 31 Aug 2018 20:37:32 GMT
+Fri, 31 Aug 2018 20:37:34 GMT
+
+#output for async calls
+Fri, 31 Aug 2018 20:41:50 GMT
+Fri, 31 Aug 2018 20:41:49 GMT
+Fri, 31 Aug 2018 20:41:50 GMT
